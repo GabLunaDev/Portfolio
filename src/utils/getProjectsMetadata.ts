@@ -3,7 +3,7 @@ import matter from "gray-matter";
 import { ProjectMetadata } from "./ProjectMetadata";
 
 const getProjectsMetadata = (): ProjectMetadata[] => {
-  const folder = "src/projects";
+  const folder = "../projects";
   const files = fs.readdirSync(folder);
   const markdownProjects = files.filter((file) => file.endsWith(".md"));
 
