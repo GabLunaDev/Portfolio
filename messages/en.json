@@ -1,0 +1,68 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "AboutSection": {
+    "greetings": "Nice To Meet You!",
+    "title": "About Me",
+    "description_tab_button": "Description",
+    "description_tab_title": "DESCRIPTION",
+    "description_tab_location": "Based on Recife, PE - Brasil",
+    "description_tab_body": "With over two years of experience as a web developer, my name is Gabriel Luna. Since childhood, I have always been an extremely curious person. My journey into the world of video games began when I was fortunate enough to receive a PlayStation 2 from my father. From that moment on, I explored incredible worlds, honed my motor skills, and built meaningful connections with people who remain an important part of my life to this day. Although my current career is not directly tied to games, they have always been a compass guiding my professional choices and experiences in other fields. Today, I strive to enhance my skills as a game developer, dedicating my time to personal projects and collaborating with individuals who share the same dream: to turn a passion for games into a fulfilling and full-time career.",
+    "description_tab_social_media": "Socials:",
+    "university_tab_button": "University",
+    "university_tab_title": "UNIVERSITY",
+    "university_tab_degree_title": "Computer Science",
+    "university_tab_university_name": "Catholic University of Pernambuco - UNICAP",
+    "university_tab_date": "2022-Current",
+    "university_tab_body": "In the vibrant world of game development, creativity knows no bounds. Every pixel, line of code, and musical note collaborates to craft immersive experiences that transcend reality. Game development is an intricate dance between artistry and technology, where passionate visionaries blend graphic design, narrative expertise, and programming prowess. From indie studios to gaming giants, developers harness cutting-edge engines and sophisticated tools to sculpt breathtaking landscapes, dynamic characters, and heart-pounding gameplay. Collaboration thrives as diverse teams merge talents, shaping worlds ranging from fantasy realms to futuristic galaxies.",
+    "courses_tab_button": "Courses",
+    "courses_tab_title": "COURSES"
+  },
+  "NavBar": {
+    "about": "About",
+    "technologies": "Technologies",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "HeroSection": {
+    "greetings": "Hello, I'm",
+    "first_role": "Generalist Game Programmer",
+    "second_role": "Indie Game Developer",
+    "hire_me_button": "Hire Me",
+    "download_cv_button": "Download CV"
+  },
+  "TechnologiesSection": {
+    "greetings": "Which Technologies I Work With",
+    "title": "Technologies",
+    "programming_tab_title": "Programming",
+    "others_tab_title": "Others"
+  },
+  "ProjectsSection": {
+    "greetings": "My Projects!",
+    "title": "Projects",
+    "repository": "Repository"
+  },
+  "ContactSection": {
+    "greetings": "Get In Touch!",
+    "title": "Contact Me",
+    "email_message": "Send a Message",
+    "form": {
+      "name": "Name",
+      "name_placeholder": "Your Name",
+      "email": "Email",
+      "email_placeholder": "Your Email",
+      "message": "Message",
+      "message_placeholder": "Your Message",
+      "send_button": "Send"
+    }
+  },
+  "FooterSection": {
+    "home_link": "Home",
+    "about_link": "About",
+    "technologies_link": "Technologies",
+    "projects_link": "Projects",
+    "contact_link": "Contact"
+  }
+}

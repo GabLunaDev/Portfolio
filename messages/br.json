@@ -1,0 +1,68 @@
+{
+  "HomePage": {
+    "title": "Olá, mundo!",
+    "about": "Go to the about page"
+  },
+  "AboutSection": {
+    "greetings": "Prazer em conhecê-lo!",
+    "title": "Sobre Mim",
+    "description_tab_button": "Descrição",
+    "description_tab_title": "DESCRIÇÃO",
+    "description_tab_location": "Localizado em Recife, PE - Brasil",
+    "description_tab_body": "Com mais de dois anos de experiência como desenvolvedor web, meu nome é Gabriel Luna. Desde criança, sempre fui uma pessoa extremamente curiosa. Minha jornada no mundo dos videogames começou quando tive a sorte de ganhar um PlayStation 2 do meu pai. A partir desse momento, explorei mundos incríveis, aperfeiçoei minhas habilidades motoras e construí conexões significativas com pessoas que continuam sendo uma parte importante da minha vida até hoje. Embora minha carreira atual não esteja diretamente ligada aos jogos, eles sempre foram uma bússola guiando minhas escolhas profissionais e experiências em outros campos. Hoje, me esforço para aprimorar minhas habilidades como desenvolvedor de jogos, dedicando meu tempo a projetos pessoais e colaborando com pessoas que compartilham o mesmo sonho: transformar a paixão por jogos em uma carreira gratificante e em tempo integral.",
+    "description_tab_social_media": "Redes Sociais:",
+    "university_tab_button": "Universidade",
+    "university_tab_title": "UNIVERSIDADE",
+    "university_tab_degree_title": "Ciência da Computação",
+    "university_tab_university_name": "Universidade Católica de Pernambuco - UNICAP",
+    "university_tab_date": "2022-Atual",
+    "university_tab_body": "No vibrante mundo do desenvolvimento de jogos, a criatividade não conhece limites. Cada pixel, linha de código e nota musical colaboram para criar experiências imersivas que transcendem a realidade. O desenvolvimento de jogos é uma dança intricada entre arte e tecnologia, onde visionários apaixonados misturam design gráfico, expertise narrativa e habilidade em programação. De estúdios independentes a gigantes dos jogos, os desenvolvedores utilizam motores de ponta e ferramentas sofisticadas para esculpir paisagens deslumbrantes, personagens dinâmicos e jogabilidade emocionante. A colaboração prospera à medida que equipes diversas unem talentos, moldando mundos que vão de reinos de fantasia a galáxias futuristas.",
+    "courses_tab_button": "Cursos",
+    "courses_tab_title": "CURSOS"
+  },
+  "NavBar": {
+    "about": "Sobre",
+    "technologies": "Tecnologias",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "HeroSection": {
+    "greetings": "Olá, eu sou",
+    "first_role": "Programador de Jogos Generalista",
+    "second_role": "Desenvolvedor de Jogos Indie",
+    "hire_me_button": "Contrate-me",
+    "download_cv_button": "Baixar CV"
+  },
+  "TechnologiesSection": {
+    "greetings": "Com quais Tecnologias Eu Trabalho",
+    "title": "Tecnologias",
+    "programming_tab_title": "Programação",
+    "others_tab_title": "Outros"
+  },
+  "ProjectsSection": {
+    "greetings": "Meus Projetos!",
+    "title": "Projetos",
+    "repository": "Repositório"
+  },
+  "ContactSection": {
+    "greetings": "Entre em Contato!",
+    "title": "Contate-me",
+    "email_message": "Enviar uma Mensagem",
+    "form": {
+      "name": "Nome",
+      "name_placeholder": "Seu Nome",
+      "email": "Email",
+      "email_placeholder": "Seu Email",
+      "message": "Mensagem",
+      "message_placeholder": "Sua Mensagem",
+      "send_button": "Enviar"
+    }
+  },
+  "FooterSection": {
+    "home_link": "Início",
+    "about_link": "Sobre",
+    "technologies_link": "Tecnologias",
+    "projects_link": "Projetos",
+    "contact_link": "Contato"
+  }
+}
