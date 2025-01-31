@@ -5,13 +5,13 @@ import { ProjectMetadata } from "@/utils/ProjectMetadata";
 
 export default function ProjectsSection() {
   const projectsMetadata: ProjectMetadata[] = [
-    {
-      title: "Godot Engine: Uma Poderosa Ferramenta",
-      short_description: "A Godot Engine é uma poderosa ferramenta de desenvolvimento de jogos de código aberto e gratuita.",
-      background_image: "godot-bg-image.jpg",
-      github_link: "https://github.com/godotengine/godot",
-      tags: ["Godot", "Tutorial"],
-    }
+    // {
+    //   title: "Godot Engine: Uma Poderosa Ferramenta",
+    //   short_description: "A Godot Engine é uma poderosa ferramenta de desenvolvimento de jogos de código aberto e gratuita.",
+    //   background_image: "godot-bg-image.jpg",
+    //   github_link: "https://github.com/godotengine/godot",
+    //   tags: ["Godot", "Tutorial"],
+    // }
   ];
   
   const locale = useLocale();
