@@ -35,9 +35,9 @@ export default function Contact(){
             <HiOutlineMail className="text-3xl text-purple-500" />
             <div>
               <h4 className="text-lg font-semibold">Email</h4>
-              <h5>gabriellunacv@gmail.com</h5>
+              <h5>contact@gabluna.dev</h5>
               <a
-                href="mailto:gabriellunacv@gmail.com"
+                href="mailto:contact@gabluna.dev"
                 target="_blank"
                 className="text-purple-500 transition ease underline decoration-1 hover:decoration-2"
               >
