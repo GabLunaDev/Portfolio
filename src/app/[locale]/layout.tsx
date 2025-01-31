@@ -5,8 +5,14 @@ import {routing} from '@/i18n/routing';
 import { languages } from '@/common/types';
 import { JetBrains_Mono } from 'next/font/google'
 import './globals.css'
+import { Metadata } from 'next';
 
 const jetbrains_mono = JetBrains_Mono({ subsets: ['latin'] })
+
+export const metadata: Metadata = {
+  title: 'GabLunaDev - Portfólio',
+  description: 'Gabriel Luna Portfolio',
+}
  
 export default async function LocaleLayout({
   children,
@@ -25,7 +31,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} style={{scrollBehavior:'smooth'}}>
-      <body>
+      <body className={jetbrains_mono.className}>
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
