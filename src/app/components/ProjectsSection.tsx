@@ -70,7 +70,7 @@ export default function ProjectsSection() {
     >
       <div className="flex flex-col justify-center items-center py-9">
         <p className="text-sm lg:text-base text-purple-500">{t('greetings')}</p>
-        <h2 className="text-2xl lg:text-3xl font-extrabold">{t('title')}</h2>
+        <h2 className="text-2xl lg:text-3xl font-extrabold text-white">{t('title')}</h2>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 md:gap-10">
         {projectsPreviews}

@@ -97,7 +97,7 @@ export default function TechnologiesSection(){
         <p className="text-sm lg:text-base text-purple-500">
           {t('greetings')}
         </p>
-        <h2 className="text-2xl lg:text-3xl font-extrabold">{t('title')}</h2>
+        <h2 className="text-2xl lg:text-3xl font-extrabold text-white">{t('title')}</h2>
       </div>
       <div className="flex flex-row justify-center gap-4">
         <TabButton

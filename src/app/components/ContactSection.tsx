@@ -27,15 +27,15 @@ export default function Contact(){
     <section id="contact" className="py-16">
       <div className="flex flex-col justify-center items-center py-10">
         <p className="text-sm lg:text-base text-purple-500">{t("greetings")}</p>
-        <h2 className="text-2xl lg:text-3xl font-extrabold">{t("title")}</h2>
+        <h2 className="text-2xl lg:text-3xl text-white font-extrabold">{t("title")}</h2>
       </div>
       <div className="flex flex-col gap-10 justify-center md:flex-row">
         <div className="flex flex-col items-center gap-6">
           <div className="w-64 flex flex-col text-center items-center gap-2 transition ease border-[2px] border-purple-500 hover:border-white bg-[#181818] hover:bg-transparent rounded-xl hover:scale-[1.02] py-3">
             <HiOutlineMail className="text-3xl text-purple-500" />
             <div>
-              <h4 className="text-lg font-semibold">Email</h4>
-              <h5>contact@gabluna.dev</h5>
+              <h4 className="text-lg font-semibold text-white">Email</h4>
+              <h5 className="text-white">contact@gabluna.dev</h5>
               <a
                 href="mailto:contact@gabluna.dev"
                 target="_blank"

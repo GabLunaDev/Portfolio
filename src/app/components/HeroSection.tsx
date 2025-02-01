@@ -50,8 +50,8 @@ export default function HeroSection() {
               target="_blank"
               className="flex items-center justify-center font-bold overflow-hidden group rounded-md transition ease hover:scale-[1.02]"
             >
-              <button className="relative inline-flex items-center transition ease justify-center p-0.5 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-blue-500 via-purple-700 to-pink-500 hover:text-white dark:text-white">
-                <span className="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-[#181818] rounded-md group-hover:bg-opacity-0">
+              <button className="relative inline-flex items-center transition ease justify-center p-0.5 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-blue-500 via-purple-700 to-pink-500 hover:text-white text-white">
+                <span className="relative px-5 py-2.5 transition-all ease-in duration-75 bg-[#181818] rounded-md group-hover:bg-opacity-0">
                   {t("download_cv_button")}
                 </span>
               </button>
